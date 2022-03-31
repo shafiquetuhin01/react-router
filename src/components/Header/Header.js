@@ -12,6 +12,9 @@ const Header = () => {
         <Link className="m-3 text-decoration-none text-white" to="/friends">
           Friends
         </Link>
+        <Link className="m-3 text-decoration-none text-white" to="/posts">
+          Posts
+        </Link>
         <Link className="m-3 text-decoration-none text-white" to="/about-us">
           About
         </Link>
